@@ -1,14 +1,17 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">Terence</string>
+    <string name="last_name">Lin</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hello My name is Terence and I am a graduate computer science student at Santa Clara University.
+        I have prior experience in mobile application development with Flutter and am excited to learn more about Kotlin development!
+    In my spare time I like to hike, play basketball, and play video games. I look forward to learning more about mobile application development
+    as well as connecting with you all!</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Video Games</string>
+    <string name="profile_hobby_second_text">🥈 Building PCs</string>
+    <string name="profile_hobby_third_text">🥉 BasketBall</string>
 </resources>
