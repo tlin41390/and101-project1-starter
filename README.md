@@ -18,9 +18,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [✔️ ] Change profile name to your name
-- [✔️ ] Change profile bio text to a personal bio about yourself
-- [ ✔️] Modify hobby section to include your top three (3) hobbies
+- [X] Change profile name to your name
+- [X] Change profile bio text to a personal bio about yourself
+- [X] Modify hobby section to include your top three (3) hobbies
 
 The following STRETCH features are implemented:
 
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://www.loom.com/share/9fdd67eb473b420cbae6d5d77f3de15a?sid=8b93b47b-f7cb-4441-a754-dd097deef9da' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://www.loom.com/share/9fdd67eb473b420cbae6d5d77f3de15a?sid=5cb3e684-0f6c-4427-afe0-84f6b5bf0c02' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
